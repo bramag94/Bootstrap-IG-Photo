@@ -1,3 +1,32 @@
 .instagramfont {
 font-family: 'Oleo Script, cursive';
 }
+
+.img { 
+    display:block;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    padding: 1px;
+}
+.heart {
+    color: red
+}
+
+.cardcust {
+    width: 650px;
+    height: 500px;
+    padding: 10px;
+}
+
+.navspace {
+    padding: 5px;
+}
+
+.cardpost {
+    display: inline-flex;
+    align-items: center;
+    margin: auto;
+    padding-left: 250px;
+    padding-bottom: 25px;
+}
